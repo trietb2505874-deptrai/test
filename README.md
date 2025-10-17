@@ -24,6 +24,7 @@ Bao gồm các nội dung:
 Một số phần nội dung được hỗ trợ bởi:
 - **ChatGPT**: Thiết kế infographic  
 - **GitHub Copilot / ChatGPT**: Hỗ trợ viết mã HTML và mô tả
+- Video tạo bởi CapCut, tài liệu từ Pexels/FreeSound (CC0).
 
 ---
 
@@ -43,5 +44,5 @@ Một số phần nội dung được hỗ trợ bởi:
 ---
 
 ## 🔗 Link chia sẻ
-- Repository GitHub: [https://github.com/tenban/ThucHanh05_TrietDepTrai](#)
+- Repository GitHub:
 - Link Teams: (chèn link nhóm khi nộp bài)
